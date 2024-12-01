@@ -1,0 +1,20 @@
+{
+    "cards": [
+    {
+    "title1": "Star Wars Collectible",
+    "price": "$60",
+    "src": "/assets/images/starwar.jpg"
+    },
+    {
+    "title2": "Retro Console",
+    "price": "$120",
+    "src": "/assets/images/console.jpg"
+    },
+    {
+    "title3": "Card3",
+    "price": "This is the third card",
+    "src": "/assets/images/console.jpg"
+    }
+  ]
+
+}

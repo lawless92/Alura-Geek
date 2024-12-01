@@ -1,0 +1,14 @@
+{
+  
+    "name": "alura-geek",
+    "version": "1.0.0",
+    "description": "Alura Geek E-commerce",
+    "main": "index.js",
+    "scripts": {
+      "start": "json-server --watch geek.json --static ./assets"
+    },
+    "dependencies": {
+      "json-server": "^1.0.0-beta.3"
+    }
+
+}
